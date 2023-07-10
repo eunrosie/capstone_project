@@ -7,8 +7,7 @@ body {
   min-height: 100vh;
   font-family: "Jost", sans-serif;
   background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
-  background-image: url('https://analynsalamanca.files.wordpress.com/2013/03/487452_530680406970534_1270977157_n.jpg'); /* Replace 'blackpink_background.jpg' with the actual path to your background image */
-  background-size: cover;
+  background-image: url('https://analynsalamanca.files.wordpress.com/2013/03/487452_530680406970534_1270977157_n.jpg'); 
 }
 .main {
   width: 350px;
